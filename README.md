@@ -1,16 +1,16 @@
-## Hi there 👋
+About Me 👋
 
-<!--
-**Sidra-g/Sidra-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Professional Expertise:
+Over a decade of experience in Sales and Marketing with expertise in Key Account Management, Product/Category Management, and Business Development.
+Skilled in Business Analytics, Pricing, Business Intelligence, and tools like Salesforce.com.
 
-Here are some ideas to get you started:
+📘 Current Focus:
+Transitioning into the field of Data Science and Analysis.
+Gaining hands-on experience with Machine Learning, Data Visualization (Power BI), and advanced Python programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Passions:
+Leveraging data-driven insights to solve problems, especially in education improvement in Pakistan.
+Exploring projects in sentiment analysis and social media data gathering.
+
+🌏 Interests:
+Exploring opportunities globally with a focus on impactful roles in data science or business analytics.
